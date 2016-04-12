@@ -1,2 +1,2 @@
 # UCSDTextEditor
-Course work for Coursera Data Structures: Measuring and Optimizing Performance 
+Coursera -- UCSD Data Structures: Measuring and Optimizing Performance
